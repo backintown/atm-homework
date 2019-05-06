@@ -1,0 +1,21 @@
+{
+  "name": "atm",
+  "version": "1.0.0",
+  "description": "atm with basic functionalities such as withdraw, deposit, and view balance",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "jest": "^24.8.0",
+    "readline-sync": "^1.4.9",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alex Cheng",
+  "license": "ISC"
+}
