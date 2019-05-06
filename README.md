@@ -12,6 +12,9 @@ Make sure node is installed
     - User: 'conor' PIN: '0000'
 6. Follow the commandline instructions.
 
+### Tests
+ - ```npm run test```
+ 
 ## TODOs/Enhancements
 - Break up the data so it stores ids instead of whole objects, e.g., Account in Transaction. Persist data into a database. Possibly MySQL or Postgres or even SQLite.
 
